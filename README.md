@@ -8,9 +8,10 @@ This project involves designing and building a table-top assistive robotic arm t
 
 | Name | Role |
 |---|---|
-| Asare, Kingsley Donkor | Hardware & Mechanical Design |
+| Hevi, Isaac | Hardware & Mechanical Design |
+| Asare, Kingsley Donkor |  Systems Integration & Documentation  |
 | Mohammed, Ahmed | Software & Speech Recognition |
-| Hevi, Isaac | Systems Integration & Documentation |
+
 
 ## Supervisor
 
