@@ -28,7 +28,7 @@ assistive-robotic-arm/
 ├── software/             # Arduino code, Raspberry Pi / Python code
 ├── docs/                 # Meeting notes, weekly reports, literature review
 ├── media/                # Photos and videos of build progress
-└── README.md             # You are here
+└── README.md             # You are here.
 ```
 
 ---
